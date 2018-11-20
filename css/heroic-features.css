@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  color: #272727;
+}
+
+/* == NAVBAR ==*/
+
+.navbar {
+	background-color: #fff!important;
+}
+
+.navbar-brand img {
+	max-width: 200px;
+}
+
+.navbar-toggler {
+	border: none;
+}
+
+.jumbotron {
+	background-color: #fff;
+}
+
+.lead {
+	margin-top: 16px;
+	font-size: 16px;
+}
+
+.btn {
+	background-color: #272727;
+	color: #fff;
+	border: none;
+	border-radius: 0;
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+}
+
+.lessons-section {
+	margin-top: 60px;
+}
+
+.lessons-section h4 {
+	margin-bottom: 20px;
+}
+
+.lessons-section-img {
+	width: 100%;
+	max-height: 400px;
+	overflow: hidden;
+}
+
+.lessons-section-img img {
+	width: 100%;
+}
+
+.faculty-section {
+	margin-top: 110px;
+}
+
+.bio-section {
+	margin-top: 60px;
+}
+
+.bio-section img {
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+iframe {
+	width: 100%;
+}
+
+/*FORM*/
+
+.form {
+	font-size: 12px;
+	border: 1px solid #e2e2e2;
+}
+
+.form-control {
+	border: none;
+	border-bottom: 1px solid #e2e2e2;
+	border-radius: 0;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+  border: none;
+}
+
+.card-footer {
+	background-color: #fff;
+}
+
+.social img {
+	width: 30px;
+	margin: 0 5px 10px 5px;
+}
+
+footer {
+	background-color: #fff;
+}
